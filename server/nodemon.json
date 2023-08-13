@@ -1,5 +1,0 @@
-{
-    "watch": ["app"],
-    "ext": "ts",
-    "exec": "npm run build && node --inspect out/index.js"
-}
